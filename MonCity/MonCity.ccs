@@ -1,0 +1,270 @@
+<Solution>
+  <PropertyGroup Name="MonCity" Version="3.10.0.0" Type="CocosStudio" />
+  <SolutionFolder>
+    <Group ctype="ResourceGroup">
+      <RootFolder Name=".">
+        <Folder Name="assets">
+          <Folder Name="enemy">
+            <Folder Name="caocao">
+              <Image Name="s1000.png" />
+              <Image Name="s1001.png" />
+              <Image Name="s1002.png" />
+              <Image Name="s1003.png" />
+              <Image Name="s1004.png" />
+              <Image Name="s1005.png" />
+              <Image Name="s1006.png" />
+              <Image Name="s1007.png" />
+            </Folder>
+            <Folder Name="lvbu">
+              <Image Name="s1000.png" />
+              <Image Name="s1001.png" />
+              <Image Name="s1002.png" />
+              <Image Name="s1003.png" />
+              <Image Name="s1004.png" />
+              <Image Name="s1005.png" />
+              <Image Name="s1006.png" />
+              <Image Name="s1007.png" />
+            </Folder>
+            <Folder Name="xuzhu">
+              <Image Name="s1000.png" />
+              <Image Name="s1001.png" />
+              <Image Name="s1002.png" />
+              <Image Name="s1003.png" />
+              <Image Name="s1004.png" />
+              <Image Name="s1005.png" />
+              <Image Name="s1006.png" />
+              <Image Name="s1007.png" />
+            </Folder>
+            <Folder Name="zhouyu">
+              <Image Name="s1000.png" />
+              <Image Name="s1001.png" />
+              <Image Name="s1002.png" />
+              <Image Name="s1003.png" />
+              <Image Name="s1004.png" />
+              <Image Name="s1005.png" />
+              <Image Name="s1006.png" />
+              <Image Name="s1007.png" />
+            </Folder>
+          </Folder>
+          <Folder Name="general">
+            <Folder Name="general1">
+              <Image Name="a5000.png" />
+              <Image Name="a5001.png" />
+              <Image Name="a5002.png" />
+              <Image Name="a5003.png" />
+              <Image Name="a5004.png" />
+              <Image Name="a5005.png" />
+              <Image Name="a5006.png" />
+              <Image Name="a5007.png" />
+              <Image Name="s5000.png" />
+              <Image Name="s5001.png" />
+              <Image Name="s5002.png" />
+              <Image Name="s5003.png" />
+              <Image Name="s5004.png" />
+              <Image Name="s5005.png" />
+              <Image Name="s5006.png" />
+              <Image Name="s5007.png" />
+            </Folder>
+            <Folder Name="general2">
+              <Image Name="a5000.png" />
+              <Image Name="a5001.png" />
+              <Image Name="a5002.png" />
+              <Image Name="a5003.png" />
+              <Image Name="a5004.png" />
+              <Image Name="a5005.png" />
+              <Image Name="a5006.png" />
+              <Image Name="a5007.png" />
+              <Image Name="s5000.png" />
+              <Image Name="s5001.png" />
+              <Image Name="s5002.png" />
+              <Image Name="s5003.png" />
+              <Image Name="s5004.png" />
+              <Image Name="s5005.png" />
+              <Image Name="s5006.png" />
+              <Image Name="s5007.png" />
+            </Folder>
+            <Folder Name="general3">
+              <Image Name="a5000.png" />
+              <Image Name="a5001.png" />
+              <Image Name="a5002.png" />
+              <Image Name="a5003.png" />
+              <Image Name="a5004.png" />
+              <Image Name="a5005.png" />
+              <Image Name="a5006.png" />
+              <Image Name="a5007.png" />
+              <Image Name="s5000.png" />
+              <Image Name="s5001.png" />
+              <Image Name="s5002.png" />
+              <Image Name="s5003.png" />
+              <Image Name="s5004.png" />
+              <Image Name="s5005.png" />
+              <Image Name="s5006.png" />
+              <Image Name="s5007.png" />
+            </Folder>
+            <Folder Name="general4">
+              <Image Name="a5000.png" />
+              <Image Name="a5001.png" />
+              <Image Name="a5002.png" />
+              <Image Name="a5003.png" />
+              <Image Name="a5004.png" />
+              <Image Name="a5005.png" />
+              <Image Name="a5006.png" />
+              <Image Name="a5007.png" />
+              <Image Name="s5000.png" />
+              <Image Name="s5001.png" />
+              <Image Name="s5002.png" />
+              <Image Name="s5003.png" />
+              <Image Name="s5004.png" />
+              <Image Name="s5005.png" />
+              <Image Name="s5006.png" />
+              <Image Name="s5007.png" />
+            </Folder>
+            <Folder Name="general5">
+              <Image Name="a5000.png" />
+              <Image Name="a5001.png" />
+              <Image Name="a5002.png" />
+              <Image Name="a5003.png" />
+              <Image Name="a5004.png" />
+              <Image Name="a5005.png" />
+              <Image Name="a5006.png" />
+              <Image Name="a5007.png" />
+              <Image Name="s5000.png" />
+              <Image Name="s5001.png" />
+              <Image Name="s5002.png" />
+              <Image Name="s5003.png" />
+              <Image Name="s5004.png" />
+              <Image Name="s5005.png" />
+              <Image Name="s5006.png" />
+              <Image Name="s5007.png" />
+            </Folder>
+          </Folder>
+          <Folder Name="skill">
+            <Folder Name="normal">
+              <Image Name="1_0007.png" />
+              <Image Name="1_0008.png" />
+              <Image Name="1_0009.png" />
+              <Image Name="1_0010.png" />
+              <Image Name="1_0011.png" />
+            </Folder>
+            <Folder Name="skill1">
+              <Image Name="1_00000.png" />
+              <Image Name="1_00001.png" />
+              <Image Name="1_00002.png" />
+              <Image Name="1_00003.png" />
+              <Image Name="1_00004.png" />
+              <Image Name="1_00005.png" />
+              <Image Name="1_00006.png" />
+              <Image Name="1_00007.png" />
+              <Image Name="1_00008.png" />
+              <Image Name="1_00009.png" />
+              <Image Name="1_00010.png" />
+              <Image Name="1_00011.png" />
+              <Image Name="1_00012.png" />
+              <Image Name="1_00013.png" />
+            </Folder>
+            <Folder Name="skill2">
+              <Image Name="0_00000.png" />
+              <Image Name="0_00001.png" />
+              <Image Name="0_00002.png" />
+              <Image Name="0_00003.png" />
+              <Image Name="0_00004.png" />
+              <Image Name="0_00005.png" />
+              <Image Name="0_00006.png" />
+              <Image Name="0_00007.png" />
+              <Image Name="0_00008.png" />
+              <Image Name="0_00009.png" />
+              <Image Name="0_00010.png" />
+              <Image Name="0_00011.png" />
+            </Folder>
+            <Folder Name="skill3">
+              <Image Name="2_00003.png" />
+              <Image Name="2_00004.png" />
+              <Image Name="2_00005.png" />
+              <Image Name="2_00006.png" />
+              <Image Name="2_00007.png" />
+              <Image Name="2_00008.png" />
+              <Image Name="2_00009.png" />
+              <Image Name="2_00010.png" />
+              <Image Name="2_00011.png" />
+              <Image Name="2_00012.png" />
+              <Image Name="2_00013.png" />
+            </Folder>
+            <Folder Name="skill4">
+              <Image Name="10.png" />
+              <Image Name="11.png" />
+              <Image Name="12.png" />
+              <Image Name="13.png" />
+              <Image Name="14.png" />
+              <Image Name="15.png" />
+              <Image Name="16.png" />
+              <Image Name="17.png" />
+              <Image Name="3.png" />
+              <Image Name="4.png" />
+              <Image Name="5.png" />
+              <Image Name="6.png" />
+              <Image Name="7.png" />
+              <Image Name="8.png" />
+              <Image Name="9.png" />
+            </Folder>
+          </Folder>
+          <Image Name="attr1.png" />
+          <Image Name="attr2.png" />
+          <Image Name="attr3.png" />
+          <Image Name="attr4.png" />
+          <Image Name="buttonbg.png" />
+          <Image Name="circle.png" />
+          <Image Name="functionbg.png" />
+          <Image Name="goldicon.png" />
+          <Image Name="helpbg1.png" />
+          <Image Name="helpbg2.png" />
+          <Image Name="helpbg3.png" />
+          <Image Name="itembg.png" />
+          <Image Name="levelbg.png" />
+          <Image Name="logo.png" />
+          <Image Name="map1.png" />
+          <Image Name="map2.png" />
+          <Image Name="map3.png" />
+          <Image Name="map4.png" />
+          <Fnt Name="myFont.fnt" />
+          <Image Name="pauseBtn.png" />
+          <Image Name="point.png" />
+          <Image Name="popbg.png" />
+          <Image Name="progressbar.png" />
+          <Image Name="progressbg.png" />
+          <Image Name="rightarrow.png" />
+          <Image Name="role1.png" />
+          <Image Name="role2.png" />
+          <Image Name="role3.png" />
+          <Image Name="role4.png" />
+          <Image Name="skill1.png" />
+          <Image Name="skill2.png" />
+          <Image Name="skill3.png" />
+          <Image Name="skill4.png" />
+          <Image Name="startbg.png" />
+          <Image Name="startbtn.png" />
+          <Image Name="tab_down.png" />
+          <Image Name="tab_up.png" />
+          <Image Name="upbtn.png" />
+        </Folder>
+        <Project Name="BattleLayer.csd" Type="Layer" />
+        <Project Name="Enemy1.csd" Type="Node" />
+        <Project Name="Enemy2.csd" Type="Node" />
+        <Project Name="Enemy3.csd" Type="Node" />
+        <Image Name="HelloWorld.png" />
+        <Project Name="MainScene.csd" Type="Scene" />
+        <Project Name="ScrollerItem.csd" Type="Layer" />
+        <Project Name="Enemy4.csd" Type="Node" />
+        <Project Name="General2.csd" Type="Node" />
+        <Project Name="General3.csd" Type="Node" />
+        <Project Name="General4.csd" Type="Node" />
+        <Project Name="General5.csd" Type="Node" />
+        <Project Name="Skill1.csd" Type="Node" />
+        <Project Name="Skill2.csd" Type="Node" />
+        <Project Name="Skill3.csd" Type="Node" />
+        <Project Name="Skill4.csd" Type="Node" />
+        <Project Name="NormalSkill.csd" Type="Node" />
+        <Project Name="General1.csd" Type="Node" />
+      </RootFolder>
+    </Group>
+  </SolutionFolder>
+</Solution>

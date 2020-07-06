@@ -1,0 +1,79 @@
+<Solution>
+  <PropertyGroup Name="sibada" Version="3.10.0.0" Type="CocosStudio" />
+  <SolutionFolder>
+    <Group ctype="ResourceGroup">
+      <RootFolder Name=".">
+        <Folder Name="assets">
+          <Image Name="1.png" />
+          <Image Name="2.png" />
+          <Image Name="3.png" />
+          <Image Name="4.png" />
+          <Image Name="5.png" />
+          <Image Name="6.png" />
+          <Image Name="bossspawn-sheet0.png" />
+          <Image Name="buttonwrap-sheet0.png" />
+          <Image Name="cloud-sheet0.png" />
+          <Image Name="defenban-sheet0.png" />
+          <Image Name="effect_skill01_man2-sheet0.png" />
+          <Image Name="effect_skill01_man-sheet0.png" />
+          <Image Name="effect_skill01_man-sheet1.png" />
+          <Image Name="effect_skill01_man-sheet2.png" />
+          <Image Name="effect_skill01_sword-sheet0.png" />
+          <Image Name="effect_skill02_shield-sheet0.png" />
+          <Image Name="effect_skill02_shiledring-sheet0.png" />
+          <Image Name="end-sheet0.png" />
+          <Image Name="enemy.png" />
+          <Image Name="flag-sheet0.png" />
+          <Image Name="flyspawn-sheet0.png" />
+          <Image Name="gamebg.png" />
+          <Image Name="hud_coins-sheet0.png" />
+          <Image Name="hud_energyprgressbarempty.png" />
+          <Image Name="hud_energyprgressbarfill.png" />
+          <Image Name="hud_heartempty-sheet0.png" />
+          <Image Name="hud_heartempty-sheet1.png" />
+          <Image Name="item_heart-sheet0.png" />
+          <Image Name="item_skill-sheet0.png" />
+          <Image Name="item_skill-sheet1.png" />
+          <Image Name="item_skill-sheet2.png" />
+          <Image Name="joystickok-sheet0.png" />
+          <Image Name="joystick-sheet0.png" />
+          <Image Name="landspawn-sheet0.png" />
+          <Image Name="mapspawntor-sheet0.png" />
+          <Image Name="monster_life_fill.png" />
+          <Image Name="monster_life_wrapper.png" />
+          <Fnt Name="myFont.fnt" />
+          <Image Name="resultBg.png" />
+          <Image Name="roleimg.png" />
+          <Image Name="score-sheet0.png" />
+          <Image Name="shieldbronze-sheet0.png" />
+          <Image Name="skill2_icon-sheet0.png" />
+          <Image Name="skill2_icon-sheet1.png" />
+          <Image Name="skill2_icon-sheet2.png" />
+          <Image Name="skill2_progress_fill.png" />
+          <Image Name="skill2_progress_wrapper.png" />
+          <Image Name="skill3_icon-sheet0.png" />
+          <Image Name="skill3_icon-sheet1.png" />
+          <Image Name="skill3_icon-sheet2.png" />
+          <Image Name="skillcount-sheet0.png" />
+          <Image Name="slime_dead-sheet0.png" />
+          <Image Name="spider_dead-sheet0.png" />
+          <Image Name="startBg.png" />
+          <Image Name="start-sheet0.png" />
+          <Image Name="starttitle-sheet0.png" />
+          <Image Name="starttitle-sheet0--.png" />
+          <Image Name="tiledbackground.png" />
+          <Image Name="tiledbackground--.png" />
+          <Image Name="tiledbackground2.png" />
+          <Image Name="tips_fsui_e-sheet0.png" />
+          <Image Name="tips_fsui_e-sheet1.png" />
+          <Image Name="tips_fsui_e-sheet2.png" />
+          <Image Name="topcenter-sheet0.png" />
+          <Image Name="topscore-sheet0.png" />
+          <Image Name="zaidutiaozhan-sheet0.png" />
+        </Folder>
+        <Image Name="HelloWorld.png" />
+        <Project Name="MainScene.csd" Type="Scene" />
+      </RootFolder>
+    </Group>
+  </SolutionFolder>
+</Solution>

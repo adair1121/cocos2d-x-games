@@ -1,0 +1,84 @@
+<Solution>
+  <PropertyGroup Name="stickMonkey" Version="3.10.0.0" Type="CocosStudio" />
+  <SolutionFolder>
+    <Group ctype="ResourceGroup">
+      <RootFolder Name=".">
+        <Folder Name="assets">
+          <Folder Name="player">
+            <Image Name="frame0.png" />
+            <Image Name="frame1.png" />
+            <Image Name="frame2.png" />
+            <Image Name="frame3.png" />
+            <Image Name="frame4.png" />
+            <Image Name="frame5.png" />
+            <Image Name="frame6.png" />
+            <Image Name="frame7.png" />
+            <Image Name="sframe0.png" />
+            <Image Name="sframe1.png" />
+            <Image Name="sframe2.png" />
+            <Image Name="sframe3.png" />
+          </Folder>
+          <Image Name="backgroundpart-sheet0.png" />
+          <Image Name="backgroundpart-sheet1.png" />
+          <Image Name="background-sheet0.png" />
+          <Image Name="background-sheet1.png" />
+          <Image Name="background-sheet2.png" />
+          <Image Name="background-sheet3.png" />
+          <Image Name="background-sheet4.png" />
+          <Image Name="background-sheet5.png" />
+          <Image Name="buttonexit-sheet0.png" />
+          <Image Name="buttonexit-sheet1.png" />
+          <Image Name="buttonfacebook-sheet0.png" />
+          <Image Name="buttonfacebook-sheet1.png" />
+          <Image Name="buttonfullscreen-sheet0.png" />
+          <Image Name="buttonfullscreen-sheet1.png" />
+          <Image Name="buttongoogleplus-sheet0.png" />
+          <Image Name="buttongoogleplus-sheet1.png" />
+          <Image Name="buttonmenu-sheet0.png" />
+          <Image Name="buttonmenu-sheet1.png" />
+          <Image Name="buttonmoregames-sheet0.png" />
+          <Image Name="buttonmoregames-sheet1.png" />
+          <Image Name="buttonmusic-sheet0.png" />
+          <Image Name="buttonmusic-sheet1.png" />
+          <Image Name="buttonplay-sheet0.png" />
+          <Image Name="buttonplay-sheet1.png" />
+          <Image Name="buttonrestart-sheet0.png" />
+          <Image Name="buttonrestart-sheet1.png" />
+          <Image Name="buttonsound-sheet0.png" />
+          <Image Name="buttonsound-sheet1.png" />
+          <Image Name="buttonstart-sheet0.png" />
+          <Image Name="buttonstart-sheet1.png" />
+          <Image Name="buttontwitter-sheet0.png" />
+          <Image Name="buttontwitter-sheet1.png" />
+          <Image Name="clouds_1-sheet0_01.png" />
+          <Image Name="clouds_1-sheet0_02.png" />
+          <Image Name="clouds_1-sheet0_03.png" />
+          <Image Name="clouds_1-sheet0_04.png" />
+          <Image Name="collision-sheet0.png" />
+          <Image Name="cursorhover-sheet0.png" />
+          <Image Name="cursor-sheet0.png" />
+          <Image Name="framebestscore-sheet0.png" />
+          <Image Name="framescore-sheet0.png" />
+          <Image Name="gameicon-sheet0.png" />
+          <Image Name="gamelogo-sheet0.png" />
+          <Image Name="gamescorefont.png" />
+          <Image Name="monkey-sheet0.png" />
+          <Image Name="orientationfont.png" />
+          <Image Name="snow-sheet0.png" />
+          <Image Name="star-sheet0.png" />
+          <Image Name="stick-sheet0.png" />
+          <Image Name="sunrays-sheet0.png" />
+          <Image Name="textfont.png" />
+          <Image Name="textgameover-sheet0.png" />
+          <Image Name="textgameresult-sheet0.png" />
+        </Folder>
+        <Project Name="GameScene.csd" Type="Layer" />
+        <Image Name="HelloWorld.png" />
+        <Project Name="MainScene.csd" Type="Scene" />
+        <Fnt Name="myFont.fnt" />
+        <Project Name="player.csd" Type="Node" />
+        <Project Name="ResultScene.csd" Type="Layer" />
+      </RootFolder>
+    </Group>
+  </SolutionFolder>
+</Solution>

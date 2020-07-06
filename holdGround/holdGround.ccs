@@ -1,0 +1,74 @@
+<Solution>
+  <PropertyGroup Name="holdGround" Version="3.10.0.0" Type="CocosStudio" />
+  <SolutionFolder>
+    <Group ctype="ResourceGroup">
+      <RootFolder Name=".">
+        <Folder Name="assets">
+          <Image Name="airenemy-sheet0_01.png" />
+          <Image Name="airenemy-sheet0_02.png" />
+          <Image Name="arrow-sheet0.png" />
+          <Image Name="atk1.png" />
+          <Image Name="atk2.png" />
+          <Image Name="atk3.png" />
+          <Image Name="atk4.png" />
+          <Image Name="atk5.png" />
+          <Image Name="atk6.png" />
+          <Image Name="atk7.png" />
+          <Image Name="attackeffects-sheet0.png" />
+          <Image Name="attackeffects-sheet1.png" />
+          <Image Name="background-sheet0.png" />
+          <Image Name="backgroundupgrade-sheet0.png" />
+          <Image Name="bower-sheet0_01.png" />
+          <Image Name="bower-sheet0_02.png" />
+          <Image Name="bower-sheet0_03.png" />
+          <Image Name="bower-sheet0_04.png" />
+          <Image Name="bower-sheet0_05.png" />
+          <Image Name="bower-sheet0_06.png" />
+          <Image Name="bower-sheet0_07.png" />
+          <Image Name="bower-sheet0_08.png" />
+          <Image Name="bower-sheet0_09.png" />
+          <Image Name="bower-sheet0_10.png" />
+          <Image Name="castle-sheet0.png" />
+          <Image Name="dialogs-sheet0_01.png" />
+          <Image Name="dialogs-sheet0_02.png" />
+          <Image Name="dialogs-sheet1.png" />
+          <Image Name="exitbutton-sheet0.png" />
+          <Image Name="ground-sheet0.png" />
+          <Image Name="hpborder-sheet0.png" />
+          <Image Name="hp-sheet0.png" />
+          <Image Name="menubutton-sheet0.png" />
+          <Fnt Name="myFont.fnt" />
+          <Image Name="pausebutton-sheet0.png" />
+          <Image Name="playbutton-sheet0.png" />
+          <Image Name="playerarrow-sheet0.png" />
+          <Image Name="player-sheet0_01.png" />
+          <Image Name="player-sheet0_02.png" />
+          <Image Name="promo-sheet0.png" />
+          <Image Name="resetbutton-sheet0.png" />
+          <Image Name="run1.png" />
+          <Image Name="run2.png" />
+          <Image Name="run3.png" />
+          <Image Name="run4.png" />
+          <Image Name="skill-sheet0.png" />
+          <Image Name="skullcount.png" />
+          <Image Name="skull-sheet0.png" />
+          <Image Name="smoke.png" />
+          <Image Name="sound-sheet0.png" />
+          <Image Name="sound-sheet1.png" />
+          <Image Name="spawnpoint-sheet0.png" />
+          <Image Name="upgradecastlehealth-sheet0.png" />
+          <Image Name="upgradeplayerdamage-sheet0.png" />
+          <Image Name="upgradetowersdamage-sheet0.png" />
+        </Folder>
+        <Image Name="HelloWorld.png" />
+        <Project Name="MainScene.csd" Type="Scene" />
+        <Project Name="GameScene.csd" Type="Layer" />
+        <Project Name="roleNode.csd" Type="Node" />
+        <Project Name="Enemy1Node.csd" Type="Node" />
+        <Project Name="Enemy2Node.csd" Type="Node" />
+        <Project Name="Enemy3Node.csd" Type="Node" />
+        <Project Name="ResultScene.csd" Type="Layer" />
+      </RootFolder>
+    </Group>
+  </SolutionFolder>
+</Solution>

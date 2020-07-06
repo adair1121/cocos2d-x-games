@@ -1,0 +1,43 @@
+<Solution>
+  <PropertyGroup Name="jiangshidadishu" Version="3.10.0.0" Type="CocosStudio" />
+  <SolutionFolder>
+    <Group ctype="ResourceGroup">
+      <RootFolder Name=".">
+        <Folder Name="font">
+          <Fnt Name="scoreFont.fnt" />
+        </Folder>
+        <Folder Name="game">
+          <Image Name="barrarelleno_sheet0.png" />
+          <Image Name="bgbarra_sheet0.png" />
+          <Image Name="bgdefeat_sheet0.png" />
+          <Image Name="bggame_sheet0.png" />
+          <Image Name="btnclose_sheet0.png" />
+          <Image Name="btnclose_sheet1.png" />
+          <Image Name="cerebro_sheet0.png" />
+          <Image Name="corazon_4.png" />
+          <Image Name="dong.png" />
+          <Image Name="gameover_sheet0.png" />
+          <Image Name="hueso_sheet0.png" />
+          <Image Name="human_4.png" />
+          <Image Name="menuplay_sheet0.png" />
+          <Image Name="menuplay_sheet1.png" />
+          <Image Name="menutitulo_sheet0.png" />
+          <Image Name="ojo_sheet0.png" />
+          <Image Name="ojo_sheet1.png" />
+          <Image Name="ojo_sheet2.png" />
+          <Image Name="start_bg.png" />
+          <Image Name="suelo_sheet0.png" />
+          <Image Name="tap_sheet0.png" />
+          <Image Name="uilives_sheet0.png" />
+          <Image Name="uilives_sheet1.png" />
+          <Image Name="zombie1_4.png" />
+          <Image Name="zombie2_4.png" />
+          <Image Name="zombie3_4.png" />
+        </Folder>
+        <Image Name="HelloWorld.png" />
+        <Project Name="MainScene.csd" Type="Scene" />
+        <Project Name="scoreEff.csd" Type="Layer" />
+      </RootFolder>
+    </Group>
+  </SolutionFolder>
+</Solution>

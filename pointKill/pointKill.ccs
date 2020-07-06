@@ -1,0 +1,94 @@
+<Solution>
+  <PropertyGroup Name="pointKill" Version="3.10.0.0" Type="CocosStudio" />
+  <SolutionFolder>
+    <Group ctype="ResourceGroup">
+      <RootFolder Name=".">
+        <Folder Name="backgrounds">
+          <Image Name="losebg.png" />
+          <Image Name="map1.png" />
+          <Image Name="map2.png" />
+          <Image Name="map3.png" />
+          <Image Name="map4.png" />
+          <Image Name="map5.png" />
+          <Image Name="pop-up-bg.png" />
+        </Folder>
+        <Folder Name="item">
+          <Image Name="gold.png" />
+          <Image Name="item_1.png" />
+          <Image Name="item_2.png" />
+          <Image Name="item_3.png" />
+        </Folder>
+        <Folder Name="loading">
+          <Image Name="bg.png" />
+        </Folder>
+        <Folder Name="ui">
+          <Folder Name="abilities">
+            <Image Name="buy-energy.png" />
+            <Image Name="buy-health.png" />
+            <Image Name="buy-power.png" />
+            <Image Name="buy-shield.png" />
+            <Image Name="buy-sword.png" />
+            <Image Name="energy.png" />
+            <Image Name="health.png" />
+            <Image Name="hpbar.png" />
+            <Image Name="mpbar.png" />
+            <Image Name="power.png" />
+            <Image Name="shield.png" />
+            <Image Name="sword.png" />
+          </Folder>
+          <Image Name="back.png" />
+          <Image Name="bt_left.png" />
+          <Image Name="bt_right.png" />
+          <Image Name="buy-button.png" />
+          <Image Name="cancel.png" />
+          <Image Name="close.png" />
+          <Image Name="gold.png" />
+          <Image Name="green-bg.png" />
+          <Image Name="green-small-bg.png" />
+          <Image Name="herobar.png" />
+          <Image Name="home.png" />
+          <Image Name="left-button.png" />
+          <Image Name="level_bg.png" />
+          <Image Name="level_monster01.png" />
+          <Image Name="level_monster02.png" />
+          <Image Name="level_monster03.png" />
+          <Image Name="level_monster04.png" />
+          <Image Name="level_monster05.png" />
+          <Image Name="lost_again_bt.png" />
+          <Image Name="lost_again_bt02.png" />
+          <Image Name="lost_bg.png" />
+          <Image Name="main_bg.png" />
+          <Image Name="main_blood01.png" />
+          <Image Name="main_set_bt.png" />
+          <Image Name="more-games.png" />
+          <Image Name="NEXT01.png" />
+          <Image Name="NEXT02.png" />
+          <Image Name="option_bg.png" />
+          <Image Name="option_bt_home.png" />
+          <Image Name="option_bt_home01.png" />
+          <Image Name="option_bt_music01.png" />
+          <Image Name="option_bt_music02.png" />
+          <Image Name="option_bt_music03.png" />
+          <Image Name="play.png" />
+          <Image Name="replay.png" />
+          <Image Name="right-button.png" />
+          <Image Name="setting.png" />
+          <Image Name="settings.png" />
+          <Image Name="shop.png" />
+          <Image Name="sound-off.png" />
+          <Image Name="sound-on.png" />
+          <Image Name="ssss01.png" />
+          <Image Name="ssss02.png" />
+          <Image Name="tutorial.png" />
+          <Image Name="WIN01.png" />
+        </Folder>
+        <Project Name="GameScene.csd" Type="Layer" />
+        <Image Name="HelloWorld.png" />
+        <Project Name="MainScene.csd" Type="Scene" />
+        <Project Name="ResultPop.csd" Type="Layer" />
+        <Project Name="SetPop.csd" Type="Layer" />
+        <Project Name="SelectLevel.csd" Type="Layer" />
+      </RootFolder>
+    </Group>
+  </SolutionFolder>
+</Solution>

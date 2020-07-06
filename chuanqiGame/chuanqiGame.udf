@@ -1,0 +1,37 @@
+<UserData Version="3.10.0.0">
+  <Properties>
+    <Item Key="TabsParamsKey">
+      <Value ctype="TabsInfo">
+        <OpenedDocuments>
+          <FilePathData Path="MainScene.csd" />
+          <FilePathData Path="CreateLayer.csd" />
+          <FilePathData Path="HomeLayer.csd" />
+          <FilePathData Path="ShopPop.csd" />
+          <FilePathData Path="ShopItem.csd" />
+          <FilePathData Path="ChallengePop.csd" />
+          <FilePathData Path="ChallengeItem.csd" />
+          <FilePathData Path="BattleLayer.csd" />
+          <FilePathData Path="RoleTitleLayer.csd" />
+          <FilePathData Path="ResultLayer.csd" />
+          <FilePathData Path="mon1.csd" />
+          <FilePathData Path="mon2.csd" />
+          <FilePathData Path="mon3.csd" />
+          <FilePathData Path="mon4.csd" />
+          <FilePathData Path="Skill1.csd" />
+          <FilePathData Path="Skill2.csd" />
+          <FilePathData Path="Skill3.csd" />
+          <FilePathData Path="Skill4.csd" />
+          <FilePathData Path="Skill5.csd" />
+        </OpenedDocuments>
+        <ActiveDocument Path="HomeLayer.csd" />
+      </Value>
+    </Item>
+    <Item Key="CocosRecentOperation">
+      <Value ctype="CocosRecentOperation">
+        <LastPublishType Value="Resource" />
+        <IsLastPublish Value="True" />
+        <LastRunType Value="Mac" />
+      </Value>
+    </Item>
+  </Properties>
+</UserData>

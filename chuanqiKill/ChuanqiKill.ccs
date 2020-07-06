@@ -1,0 +1,67 @@
+<Solution>
+  <PropertyGroup Name="ChuanqiKill" Version="3.10.0.0" Type="CocosStudio" />
+  <SolutionFolder>
+    <Group ctype="ResourceGroup">
+      <RootFolder Name=".">
+        <Folder Name="assets">
+          <Image Name="background2-sheet0.png" />
+          <Image Name="background-sheet0.png" />
+          <Image Name="bar-sheet0.png" />
+          <Image Name="batlelevelbg.png" />
+          <Image Name="battleexp.png" />
+          <Image Name="battlelevel.png" />
+          <Image Name="battleloadbar.png" />
+          <Image Name="battleloadbg.png" />
+          <Image Name="battletimeicon.png" />
+          <Image Name="closebutton-sheet0.png" />
+          <Image Name="failbg.png" />
+          <Image Name="fontbg.png" />
+          <Image Name="fontbg2.png" />
+          <Image Name="gamebg.png" />
+          <Image Name="gold.png" />
+          <Image Name="ground-sheet0.png" />
+          <Image Name="itembox.png" />
+          <Image Name="levelfnt.png" />
+          <Image Name="levelitem.png" />
+          <Image Name="levelitemfocus.png" />
+          <Image Name="levellock.png" />
+          <Image Name="leveltitle.png" />
+          <Image Name="line.png" />
+          <Image Name="line-sheet0.png" />
+          <Image Name="loadingbar.png" />
+          <Image Name="loadingbg.png" />
+          <Image Name="mall.png" />
+          <Image Name="menubutton-sheet0.png" />
+          <Fnt Name="myFont.fnt" />
+          <Fnt Name="num2fnt.fnt" />
+          <Image Name="numcir.png" />
+          <Fnt Name="numfnt.fnt" />
+          <Image Name="particles.png" />
+          <Image Name="playbutton-sheet0.png" />
+          <Image Name="progressback-sheet0.png" />
+          <Image Name="select_map.png" />
+          <Image Name="shopBuy.png" />
+          <Image Name="shopClose.png" />
+          <Image Name="shopItem.png" />
+          <Image Name="shopPanel.png" />
+          <Image Name="skill1.png" />
+          <Image Name="skill2.png" />
+          <Image Name="skill3.png" />
+          <Image Name="skillfont1.png" />
+          <Image Name="skillfont2.png" />
+          <Image Name="skillfont3.png" />
+          <Image Name="sureBtn.png" />
+          <Image Name="timebarline-sheet0.png" />
+          <Image Name="timebar-sheet0.png" />
+          <Image Name="winbg.png" />
+        </Folder>
+        <Project Name="GameScene.csd" Type="Scene" />
+        <Image Name="HelloWorld.png" />
+        <Project Name="MainScene.csd" Type="Scene" />
+        <Project Name="ResultScene.csd" Type="Scene" />
+        <Project Name="SelectLevel.csd" Type="Layer" />
+        <Project Name="ShopPop.csd" Type="Layer" />
+      </RootFolder>
+    </Group>
+  </SolutionFolder>
+</Solution>

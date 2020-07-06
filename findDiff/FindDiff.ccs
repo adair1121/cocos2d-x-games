@@ -1,0 +1,83 @@
+<Solution>
+  <PropertyGroup Name="FindDiff" Version="3.10.0.0" Type="CocosStudio" />
+  <SolutionFolder>
+    <Group ctype="ResourceGroup">
+      <RootFolder Name=".">
+        <Folder Name="assets">
+          <Image Name="bck01.jpg" />
+          <Image Name="bck02.jpg" />
+          <Image Name="bck03.jpg" />
+          <Image Name="bck04.jpg" />
+          <Image Name="bck05.jpg" />
+          <Image Name="bckDole.png" />
+          <Image Name="gumbGameOver.png" />
+          <Image Name="gumbNextLevel.png" />
+          <Image Name="gumbTimesUp.png" />
+          <Image Name="hint.png" />
+          <Image Name="hint2.png" />
+          <Image Name="obj01-01.png" />
+          <Image Name="obj01-02.png" />
+          <Image Name="obj01-03.png" />
+          <Image Name="obj01-04.png" />
+          <Image Name="obj01-05.png" />
+          <Image Name="obj01-06.png" />
+          <Image Name="obj01-07.png" />
+          <Image Name="obj01-08.png" />
+          <Image Name="obj01-09.png" />
+          <Image Name="obj01-10.png" />
+          <Image Name="obj02-01.png" />
+          <Image Name="obj02-02.png" />
+          <Image Name="obj02-03.png" />
+          <Image Name="obj02-04.png" />
+          <Image Name="obj02-05.png" />
+          <Image Name="obj02-06.png" />
+          <Image Name="obj02-07.png" />
+          <Image Name="obj02-08.png" />
+          <Image Name="obj02-09.png" />
+          <Image Name="obj02-10.png" />
+          <Image Name="obj03-01.png" />
+          <Image Name="obj03-02.png" />
+          <Image Name="obj03-03.png" />
+          <Image Name="obj03-04.png" />
+          <Image Name="obj03-05.png" />
+          <Image Name="obj03-06.png" />
+          <Image Name="obj03-07.png" />
+          <Image Name="obj03-08.png" />
+          <Image Name="obj03-09.png" />
+          <Image Name="obj03-10.png" />
+          <Image Name="obj04-01.png" />
+          <Image Name="obj04-02.png" />
+          <Image Name="obj04-03.png" />
+          <Image Name="obj04-04.png" />
+          <Image Name="obj04-05.png" />
+          <Image Name="obj04-06.png" />
+          <Image Name="obj04-07.png" />
+          <Image Name="obj04-08.png" />
+          <Image Name="obj04-09.png" />
+          <Image Name="obj04-10.png" />
+          <Image Name="objFalio.png" />
+          <Image Name="objPogodio.png" />
+          <Image Name="objPoruka01.png" />
+          <Image Name="pauzaNovo.png" />
+          <Image Name="pauzaVeliko.png" />
+          <Image Name="playBtn.png" />
+          <Image Name="playIntro.png" />
+          <Image Name="pozadinaGlavniEkran.jpg" />
+          <Image Name="pozadinaIntro.jpg" />
+          <Image Name="prozirnaPozadina.png" />
+          <Image Name="sound-off.png" />
+          <Image Name="sound-on.png" />
+          <Image Name="traka2.png" />
+          <Image Name="vrijemePrazno.png" />
+          <Image Name="vrijemePuno.png" />
+          <Image Name="zvjezdica.png" />
+        </Folder>
+        <Project Name="GameScene.csd" Type="Scene" />
+        <Image Name="HelloWorld.png" />
+        <Project Name="HelpInfoTip.csd" Type="Layer" />
+        <Project Name="MainScene.csd" Type="Scene" />
+        <Project Name="PausePop.csd" Type="Layer" />
+      </RootFolder>
+    </Group>
+  </SolutionFolder>
+</Solution>

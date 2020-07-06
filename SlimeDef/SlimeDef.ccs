@@ -1,0 +1,92 @@
+<Solution>
+  <PropertyGroup Name="SlimeDef" Version="3.10.0.0" Type="CocosStudio" />
+  <SolutionFolder>
+    <Group ctype="ResourceGroup">
+      <RootFolder Name=".">
+        <Folder Name="assets">
+          <Folder Name="down">
+            <Image Name="0.png" />
+            <Image Name="1.png" />
+            <Image Name="2.png" />
+            <Image Name="3.png" />
+            <Image Name="4.png" />
+            <Image Name="5.png" />
+          </Folder>
+          <Folder Name="left">
+            <Image Name="2747-33.png" />
+            <Image Name="2747-34.png" />
+            <Image Name="2747-35.png" />
+            <Image Name="2747-36.png" />
+            <Image Name="2747-37.png" />
+            <Image Name="2747-38.png" />
+            <Image Name="2747-39.png" />
+            <Image Name="2747-40.png" />
+            <Image Name="2747-41.png" />
+            <Image Name="2747-42.png" />
+            <Image Name="2747-43.png" />
+            <Image Name="2747-44.png" />
+            <Image Name="2747-45.png" />
+            <Image Name="2747-46.png" />
+            <Image Name="2747-47.png" />
+            <Image Name="2747-48.png" />
+          </Folder>
+          <Folder Name="right">
+            <Image Name="0.png" />
+            <Image Name="1.png" />
+            <Image Name="2.png" />
+            <Image Name="3.png" />
+            <Image Name="4.png" />
+            <Image Name="5.png" />
+          </Folder>
+          <Folder Name="up">
+            <Image Name="0.png" />
+            <Image Name="1.png" />
+            <Image Name="2.png" />
+            <Image Name="3.png" />
+            <Image Name="4.png" />
+            <Image Name="5.png" />
+          </Folder>
+          <Image Name="anger.png" />
+          <Image Name="arrow.png" />
+          <Image Name="button.png" />
+          <Image Name="endbg.png" />
+          <Image Name="enemy.png" />
+          <Image Name="loading.png" />
+          <Fnt Name="myFont.fnt" />
+          <Image Name="role.png" />
+          <Image Name="slm_againbt1.png" />
+          <Image Name="slm_againbt2.png" />
+          <Image Name="slm_chip_g.png" />
+          <Image Name="slm_enmey_dowm.png" />
+          <Image Name="slm_enmey_left.png" />
+          <Image Name="slm_enmey_right.png" />
+          <Image Name="slm_enmey_up.png" />
+          <Image Name="slm_ground1.png" />
+          <Image Name="slm_ground2.png" />
+          <Image Name="slm_ground3.png" />
+          <Image Name="slm_ground4.png" />
+          <Image Name="slm_ground5.png" />
+          <Image Name="slm_logo.png" />
+          <Image Name="slm_nqtitle.png" />
+          <Image Name="slm_outbt1.png" />
+          <Image Name="slm_outbt2.png" />
+          <Image Name="slm_over.png" />
+          <Image Name="slm_over_match.png" />
+          <Image Name="slm_skillbar_1.png" />
+          <Image Name="slm_skillbar_2.png" />
+          <Image Name="slm_startbt1.png" />
+          <Image Name="slm_startbt2.png" />
+          <Image Name="time.png" />
+          <Image Name="topbg.png" />
+          <Image Name="ui_b1.png" />
+        </Folder>
+        <Project Name="DownNode.csd" Type="Node" />
+        <Image Name="HelloWorld.png" />
+        <Project Name="LeftNode.csd" Type="Node" />
+        <Project Name="MainScene.csd" Type="Scene" />
+        <Project Name="RightNode.csd" Type="Node" />
+        <Project Name="UpNode.csd" Type="Node" />
+      </RootFolder>
+    </Group>
+  </SolutionFolder>
+</Solution>

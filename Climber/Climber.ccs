@@ -1,0 +1,33 @@
+<Solution>
+  <PropertyGroup Name="Climber" Version="3.10.0.0" Type="CocosStudio" />
+  <SolutionFolder>
+    <Group ctype="ResourceGroup">
+      <RootFolder Name=".">
+        <Folder Name="assets">
+          <Fnt Name="fontfnt.fnt" />
+          <Image Name="game_bg.png" />
+          <Image Name="texture_01.png" />
+          <Image Name="texture_02.png" />
+          <Image Name="texture_03.png" />
+          <Image Name="texture_04.png" />
+          <Image Name="texture_05.png" />
+          <Image Name="texture_06.png" />
+          <Image Name="texture_07.png" />
+          <Image Name="texture_08.png" />
+          <Image Name="texture_09.png" />
+          <Image Name="texture_10.png" />
+          <Image Name="texture_11.png" />
+          <Image Name="texture_12.png" />
+          <Image Name="texture_13.png" />
+          <Image Name="texture_14.png" />
+          <Image Name="texture_15.png" />
+          <Image Name="ui_result_01.png" />
+          <Image Name="ui_result_02.png" />
+          <Image Name="ui_result_03.png" />
+        </Folder>
+        <Image Name="HelloWorld.png" />
+        <Project Name="MainScene.csd" Type="Scene" />
+      </RootFolder>
+    </Group>
+  </SolutionFolder>
+</Solution>

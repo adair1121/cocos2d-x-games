@@ -1,0 +1,299 @@
+<Solution>
+  <PropertyGroup Name="chuanqiGame" Version="3.10.0.0" Type="CocosStudio" />
+  <SolutionFolder>
+    <Group ctype="ResourceGroup">
+      <RootFolder Name=".">
+        <Folder Name="battle">
+          <Image Name="battle_hp_bar.png" />
+          <Image Name="battle_hp_bar_bg.png" />
+          <Image Name="battle_left.png" />
+          <Image Name="battle_map1.png" />
+          <Image Name="battle_map2.png" />
+          <Image Name="battle_map3.png" />
+          <Image Name="battle_map4.png" />
+          <Image Name="battle_right.png" />
+          <Image Name="battle_skill_1.png" />
+          <Image Name="battle_skill_2.png" />
+          <Image Name="battle_skill_3.png" />
+          <Image Name="battle_skill_4.png" />
+          <Image Name="battle_skill_5.png" />
+          <Image Name="be_shot.png" />
+        </Folder>
+        <Folder Name="challenge">
+          <Image Name="challenge_bg.png" />
+          <Image Name="challenge_btn.png" />
+          <Image Name="challenge_close.png" />
+          <Image Name="challenge_font.png" />
+          <Image Name="change_level_font.png" />
+          <Fnt Name="fontfnt.fnt" />
+          <Image Name="level_1.png" />
+          <Image Name="level_2.png" />
+          <Image Name="level_3.png" />
+          <Image Name="level_4.png" />
+          <Image Name="level_5.png" />
+          <Image Name="level_6.png" />
+          <Fnt Name="myFont.fnt" />
+        </Folder>
+        <Folder Name="create">
+          <Image Name="create_bg.png" />
+          <Image Name="create_btn.png" />
+          <Image Name="create_font_bg.png" />
+          <Image Name="create_head.png" />
+          <Image Name="create_head_focus.png" />
+          <Image Name="create_man.png" />
+          <Image Name="create_man_icon.png" />
+          <Image Name="create_random.png" />
+          <Image Name="create_title.png" />
+          <Image Name="create_woman.png" />
+          <Image Name="create_woman_icon.png" />
+        </Folder>
+        <Folder Name="loading">
+          <Image Name="loading_bar.png" />
+          <Image Name="loading_bar_bg.png" />
+          <Image Name="loading_bg.png" />
+          <Image Name="loading_startbtn.png" />
+        </Folder>
+        <Folder Name="main">
+          <Image Name="main_bg.png" />
+          <Image Name="main_bottom.png" />
+          <Image Name="main_challenge.png" />
+          <Image Name="main_gold.png" />
+          <Image Name="main_head_bg.png" />
+          <Image Name="main_head_man.png" />
+          <Image Name="main_head_woman.png" />
+          <Image Name="main_hp_bar.png" />
+          <Image Name="main_mall.png" />
+        </Folder>
+        <Folder Name="result">
+          <Image Name="result_fail_bg.png" />
+          <Image Name="result_font.png" />
+          <Image Name="result_gold.png" />
+          <Image Name="result_sure_btn.png" />
+          <Image Name="result_win_bg.png" />
+          <Image Name="winfont.png" />
+        </Folder>
+        <Folder Name="shop">
+          <Image Name="shop_bg.png" />
+          <Image Name="shop_buy.png" />
+          <Image Name="shop_item_bg.png" />
+          <Image Name="shop_lock.png" />
+        </Folder>
+        <Image Name="HelloWorld.png" />
+        <Project Name="MainScene.csd" Type="Scene" />
+        <Project Name="CreateLayer.csd" Type="Layer" />
+        <Project Name="HomeLayer.csd" Type="Layer" />
+        <Project Name="ShopPop.csd" Type="Layer" />
+        <Project Name="ShopItem.csd" Type="Layer" />
+        <Project Name="ChallengePop.csd" Type="Layer" />
+        <Project Name="ChallengeItem.csd" Type="Layer" />
+        <Project Name="BattleLayer.csd" Type="Layer" />
+        <Project Name="RoleTitleLayer.csd" Type="Layer" />
+        <Project Name="ResultLayer.csd" Type="Layer" />
+        <Folder Name="mon">
+          <Folder Name="man">
+            <Image Name="000016.png" />
+            <Image Name="000017.png" />
+            <Image Name="000018.png" />
+            <Image Name="000019.png" />
+            <Image Name="000216.png" />
+            <Image Name="000217.png" />
+            <Image Name="000218.png" />
+            <Image Name="000219.png" />
+            <Image Name="000220.png" />
+            <Image Name="000221.png" />
+            <Image Name="000511.png" />
+            <Image Name="000537.png" />
+            <Image Name="000538.png" />
+            <Image Name="000539.png" />
+          </Folder>
+          <Folder Name="mon1">
+            <Image Name="atk1.png" />
+            <Image Name="atk2.png" />
+            <Image Name="atk3.png" />
+            <Image Name="atk4.png" />
+            <Image Name="atk5.png" />
+            <Image Name="atk6.png" />
+            <Image Name="run1.png" />
+            <Image Name="run2.png" />
+            <Image Name="run3.png" />
+            <Image Name="run4.png" />
+            <Image Name="run5.png" />
+            <Image Name="run6.png" />
+            <Image Name="stan1.png" />
+            <Image Name="stan2.png" />
+            <Image Name="stan3.png" />
+          </Folder>
+          <Folder Name="mon2">
+            <Image Name="atk1.png" />
+            <Image Name="atk2.png" />
+            <Image Name="atk3.png" />
+            <Image Name="atk4.png" />
+            <Image Name="atk5.png" />
+            <Image Name="atk6.png" />
+            <Image Name="run1.png" />
+            <Image Name="run2.png" />
+            <Image Name="run3.png" />
+            <Image Name="run4.png" />
+            <Image Name="run5.png" />
+            <Image Name="run6.png" />
+            <Image Name="stand1.png" />
+            <Image Name="stand2.png" />
+            <Image Name="stand3.png" />
+          </Folder>
+          <Folder Name="mon3">
+            <Image Name="9030.png" />
+            <Image Name="9031.png" />
+            <Image Name="9032.png" />
+            <Image Name="9033.png" />
+            <Image Name="9034.png" />
+            <Image Name="9035.png" />
+            <Image Name="9110.png" />
+            <Image Name="9111.png" />
+            <Image Name="9112.png" />
+            <Image Name="9113.png" />
+            <Image Name="9114.png" />
+            <Image Name="9115.png" />
+            <Image Name="9190.png" />
+            <Image Name="9191.png" />
+            <Image Name="9192.png" />
+            <Image Name="9193.png" />
+            <Image Name="9194.png" />
+            <Image Name="9195.png" />
+          </Folder>
+          <Folder Name="mon4">
+            <Image Name="1_0000_12030.png" />
+            <Image Name="1_0001_12031.png" />
+            <Image Name="1_0002_12032.png" />
+            <Image Name="1_0003_12033.png" />
+            <Image Name="1_0004_12034.png" />
+            <Image Name="1_0005_12035.png" />
+            <Image Name="1_0006_12110.png" />
+            <Image Name="1_0007_12111.png" />
+            <Image Name="1_0008_12112.png" />
+            <Image Name="1_0009_12113.png" />
+            <Image Name="1_0010_12114.png" />
+            <Image Name="1_0011_12115.png" />
+            <Image Name="1_0012_12190.png" />
+            <Image Name="1_0013_12191.png" />
+            <Image Name="1_0014_12192.png" />
+            <Image Name="1_0015_12193.png" />
+            <Image Name="1_0016_12194.png" />
+            <Image Name="1_0017_12195.png" />
+          </Folder>
+          <Folder Name="woman">
+            <Image Name="000016.png" />
+            <Image Name="000017.png" />
+            <Image Name="000018.png" />
+            <Image Name="000019.png" />
+            <Image Name="000216.png" />
+            <Image Name="000217.png" />
+            <Image Name="000218.png" />
+            <Image Name="000219.png" />
+            <Image Name="000220.png" />
+            <Image Name="000221.png" />
+            <Image Name="000537.png" />
+            <Image Name="000538.png" />
+            <Image Name="000539.png" />
+            <Image Name="000552.png" />
+          </Folder>
+        </Folder>
+        <Project Name="manNode.csd" Type="Node" />
+        <Project Name="womanNode.csd" Type="Node" />
+        <Project Name="mon1.csd" Type="Node" />
+        <Project Name="mon2.csd" Type="Node" />
+        <Project Name="mon3.csd" Type="Node" />
+        <Project Name="mon4.csd" Type="Node" />
+        <Folder Name="skill">
+          <Folder Name="skill1">
+            <Image Name="00000.png" />
+            <Image Name="00001.png" />
+            <Image Name="00002.png" />
+            <Image Name="00003.png" />
+            <Image Name="00004.png" />
+            <Image Name="00005.png" />
+            <Image Name="00006.png" />
+            <Image Name="00007.png" />
+            <Image Name="00008.png" />
+            <Image Name="00009.png" />
+            <Image Name="00010.png" />
+            <Image Name="00011.png" />
+            <Image Name="00012.png" />
+            <Image Name="00013.png" />
+          </Folder>
+          <Folder Name="skill2">
+            <Image Name="sm_ms_superskill1_0_hit_1801.png" />
+            <Image Name="sm_ms_superskill1_0_hit_1802.png" />
+            <Image Name="sm_ms_superskill1_0_hit_1803.png" />
+            <Image Name="sm_ms_superskill1_0_hit_1804.png" />
+            <Image Name="sm_ms_superskill1_0_hit_1805.png" />
+            <Image Name="sm_ms_superskill1_0_hit_1806.png" />
+            <Image Name="sm_ms_superskill1_0_hit_1807.png" />
+            <Image Name="sm_ms_superskill1_0_hit_1808.png" />
+            <Image Name="sm_ms_superskill1_0_hit_1809.png" />
+            <Image Name="sm_ms_superskill1_0_hit_1810.png" />
+          </Folder>
+          <Folder Name="skill3">
+            <Image Name="10000.png" />
+            <Image Name="10001.png" />
+            <Image Name="10002.png" />
+            <Image Name="10003.png" />
+            <Image Name="10004.png" />
+            <Image Name="10005.png" />
+            <Image Name="10006.png" />
+            <Image Name="10007.png" />
+            <Image Name="10008.png" />
+            <Image Name="10009.png" />
+            <Image Name="10010.png" />
+            <Image Name="10011.png" />
+            <Image Name="10012.png" />
+            <Image Name="10013.png" />
+            <Image Name="10014.png" />
+            <Image Name="10015.png" />
+            <Image Name="10016.png" />
+          </Folder>
+          <Folder Name="skill4">
+            <Image Name="00001.png" />
+            <Image Name="00002.png" />
+            <Image Name="00003.png" />
+            <Image Name="00004.png" />
+            <Image Name="00005.png" />
+            <Image Name="00006.png" />
+            <Image Name="00007.png" />
+            <Image Name="00008.png" />
+            <Image Name="00009.png" />
+            <Image Name="00010.png" />
+            <Image Name="00011.png" />
+            <Image Name="00012.png" />
+          </Folder>
+          <Folder Name="skill5">
+            <Image Name="10000.png" />
+            <Image Name="10001.png" />
+            <Image Name="10002.png" />
+            <Image Name="10003.png" />
+            <Image Name="10004.png" />
+            <Image Name="10005.png" />
+            <Image Name="10006.png" />
+            <Image Name="10007.png" />
+            <Image Name="10008.png" />
+            <Image Name="10009.png" />
+            <Image Name="10010.png" />
+            <Image Name="10011.png" />
+            <Image Name="10012.png" />
+            <Image Name="10013.png" />
+            <Image Name="10014.png" />
+            <Image Name="10015.png" />
+            <Image Name="10016.png" />
+            <Image Name="10017.png" />
+            <Image Name="10018.png" />
+            <Image Name="10019.png" />
+          </Folder>
+        </Folder>
+        <Project Name="Skill1.csd" Type="Node" />
+        <Project Name="Skill2.csd" Type="Node" />
+        <Project Name="Skill3.csd" Type="Node" />
+        <Project Name="Skill4.csd" Type="Node" />
+        <Project Name="Skill5.csd" Type="Node" />
+      </RootFolder>
+    </Group>
+  </SolutionFolder>
+</Solution>

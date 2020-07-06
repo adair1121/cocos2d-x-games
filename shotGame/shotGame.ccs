@@ -1,0 +1,113 @@
+<Solution>
+  <PropertyGroup Name="shotGame" Version="3.10.0.0" Type="CocosStudio" />
+  <SolutionFolder>
+    <Group ctype="ResourceGroup">
+      <RootFolder Name=".">
+        <Folder Name="ani">
+          <Folder Name="role1">
+            <Image Name="0.png" />
+            <Image Name="1.png" />
+            <Image Name="10.png" />
+            <Image Name="2.png" />
+            <Image Name="3.png" />
+            <Image Name="4.png" />
+            <Image Name="5.png" />
+            <Image Name="6.png" />
+            <Image Name="7.png" />
+            <Image Name="8.png" />
+            <Image Name="9.png" />
+          </Folder>
+          <Folder Name="role2">
+            <Image Name="0.png" />
+            <Image Name="1.png" />
+            <Image Name="2.png" />
+            <Image Name="3.png" />
+            <Image Name="4.png" />
+            <Image Name="5.png" />
+            <Image Name="6.png" />
+            <Image Name="7.png" />
+          </Folder>
+          <Folder Name="role3">
+            <Image Name="0.png" />
+            <Image Name="1.png" />
+            <Image Name="10.png" />
+            <Image Name="11.png" />
+            <Image Name="12.png" />
+            <Image Name="13.png" />
+            <Image Name="14.png" />
+            <Image Name="15.png" />
+            <Image Name="2.png" />
+            <Image Name="3.png" />
+            <Image Name="4.png" />
+            <Image Name="5.png" />
+            <Image Name="6.png" />
+            <Image Name="7.png" />
+            <Image Name="8.png" />
+            <Image Name="9.png" />
+          </Folder>
+          <Folder Name="role4">
+            <Image Name="0.png" />
+            <Image Name="1.png" />
+            <Image Name="2.png" />
+            <Image Name="3.png" />
+            <Image Name="4.png" />
+            <Image Name="5.png" />
+            <Image Name="6.png" />
+            <Image Name="7.png" />
+          </Folder>
+          <Folder Name="role5">
+            <Image Name="619-1.png" />
+            <Image Name="619-10.png" />
+            <Image Name="619-11.png" />
+            <Image Name="619-12.png" />
+            <Image Name="619-13.png" />
+            <Image Name="619-14.png" />
+            <Image Name="619-15.png" />
+            <Image Name="619-16.png" />
+            <Image Name="619-2.png" />
+            <Image Name="619-3.png" />
+            <Image Name="619-4.png" />
+            <Image Name="619-5.png" />
+            <Image Name="619-6.png" />
+            <Image Name="619-7.png" />
+            <Image Name="619-8.png" />
+            <Image Name="619-9.png" />
+          </Folder>
+        </Folder>
+        <Folder Name="assets">
+          <Image Name="background.png" />
+          <Image Name="bg_rotate.jpg" />
+          <Image Name="bg_welcome.png" />
+          <Image Name="btn_replay.png" />
+          <Image Name="btn_replay_wht.png" />
+          <Image Name="char_welcome.png" />
+          <Image Name="gamehud_pause.png" />
+          <Image Name="gamehud_pause_wht.png" />
+          <Image Name="gamehud_score.png" />
+          <Image Name="gamehud_time.png" />
+          <Image Name="gameoverlay_pause.png" />
+          <Image Name="hazard_01.png" />
+          <Image Name="icon_highscore.png" />
+          <Image Name="icon_timeup.png" />
+          <Image Name="instruction_mouseclick.png" />
+          <Image Name="instruction_tap.png" />
+          <Image Name="missile.png" />
+          <Fnt Name="myFont.fnt" />
+          <Image Name="resetbg.png" />
+          <Image Name="scorebg.png" />
+          <Image Name="startBtn.png" />
+          <Image Name="timebg.png" />
+        </Folder>
+        <Project Name="Enemy1.csd" Type="Node" />
+        <Project Name="Enemy2.csd" Type="Node" />
+        <Project Name="Enemy3.csd" Type="Node" />
+        <Project Name="Enemy4.csd" Type="Node" />
+        <Project Name="Enemy5.csd" Type="Node" />
+        <Project Name="GameScene.csd" Type="Layer" />
+        <Image Name="HelloWorld.png" />
+        <Project Name="MainScene.csd" Type="Scene" />
+        <Project Name="ResultScene.csd" Type="Layer" />
+      </RootFolder>
+    </Group>
+  </SolutionFolder>
+</Solution>

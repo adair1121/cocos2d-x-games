@@ -1,0 +1,128 @@
+<Solution>
+  <PropertyGroup Name="warrior" Version="3.10.0.0" Type="CocosStudio" />
+  <SolutionFolder>
+    <Group ctype="ResourceGroup">
+      <RootFolder Name=".">
+        <Folder Name="assets">
+          <Image Name="BACK.png" />
+          <Image Name="be_shot.png" />
+          <Image Name="bg.png" />
+          <Image Name="BG03.png" />
+          <Image Name="bt01.png" />
+          <Image Name="bt02.png" />
+          <Image Name="bt03.png" />
+          <Image Name="BTA.png" />
+          <Image Name="BTB.png" />
+          <Image Name="BTC.png" />
+          <Image Name="btn_1.png" />
+          <Image Name="btn_2.png" />
+          <Image Name="btn_r.png" />
+          <Image Name="button.png" />
+          <Image Name="CLOSE.png" />
+          <Image Name="eff_dark.png" />
+          <Image Name="explosion0.png" />
+          <Image Name="explosion2.png" />
+          <Image Name="explosion4.png" />
+          <Image Name="guide.png" />
+          <Image Name="hero1.png" />
+          <Image Name="hero10.png" />
+          <Image Name="hero2.png" />
+          <Image Name="hero3.png" />
+          <Image Name="hero4.png" />
+          <Image Name="hero5.png" />
+          <Image Name="hero6.png" />
+          <Image Name="hero7.png" />
+          <Image Name="hero8.png" />
+          <Image Name="hero9.png" />
+          <Image Name="icon.png" />
+          <Image Name="logo.png" />
+          <Image Name="map_00_02.png" />
+          <Image Name="miss.png" />
+          <Image Name="monster1_1.png" />
+          <Image Name="monster1_10.png" />
+          <Image Name="monster1_11.png" />
+          <Image Name="monster1_12.png" />
+          <Image Name="monster1_2.png" />
+          <Image Name="monster1_3.png" />
+          <Image Name="monster1_4.png" />
+          <Image Name="monster1_5.png" />
+          <Image Name="monster1_6.png" />
+          <Image Name="monster1_7.png" />
+          <Image Name="monster1_8.png" />
+          <Image Name="monster1_9.png" />
+          <Image Name="monster2_1.png" />
+          <Image Name="monster2_10.png" />
+          <Image Name="monster2_11.png" />
+          <Image Name="monster2_12.png" />
+          <Image Name="monster2_2.png" />
+          <Image Name="monster2_3.png" />
+          <Image Name="monster2_4.png" />
+          <Image Name="monster2_5.png" />
+          <Image Name="monster2_6.png" />
+          <Image Name="monster2_7.png" />
+          <Image Name="monster2_8.png" />
+          <Image Name="monster2_9.png" />
+          <Image Name="monster3_1.png" />
+          <Image Name="monster3_10.png" />
+          <Image Name="monster3_11.png" />
+          <Image Name="monster3_12.png" />
+          <Image Name="monster3_2.png" />
+          <Image Name="monster3_3.png" />
+          <Image Name="monster3_4.png" />
+          <Image Name="monster3_5.png" />
+          <Image Name="monster3_6.png" />
+          <Image Name="monster3_7.png" />
+          <Image Name="monster3_8.png" />
+          <Image Name="monster3_9.png" />
+          <Image Name="monster4_1.png" />
+          <Image Name="monster4_2.png" />
+          <Image Name="monster4_3.png" />
+          <Image Name="monster4_4.png" />
+          <Image Name="monster4_7.png" />
+          <Image Name="monster4_8.png" />
+          <Image Name="monster4_9.png" />
+          <Image Name="monster5_1.png" />
+          <Image Name="monster5_2.png" />
+          <Image Name="monster5_3.png" />
+          <Image Name="monster5_4.png" />
+          <Image Name="monster5_7.png" />
+          <Image Name="monster5_8.png" />
+          <Image Name="monster5_9.png" />
+          <Image Name="monster6_1.png" />
+          <Image Name="monster6_2.png" />
+          <Image Name="monster6_3.png" />
+          <Image Name="monster6_4.png" />
+          <Image Name="monster6_7.png" />
+          <Image Name="monster6_8.png" />
+          <Image Name="monster6_9.png" />
+          <Image Name="notice_board.png" />
+          <Image Name="popup_r.png" />
+          <Image Name="RECORD01.png" />
+          <Image Name="share.png" />
+          <Image Name="skill1.png" />
+          <Image Name="start1.png" />
+          <Image Name="start2.png" />
+          <Image Name="TIME.png" />
+          <Image Name="timeimg.png" />
+          <Image Name="warning_wolf.png" />
+          <Image Name="WIN_BT01.png" />
+          <Image Name="WIN_BT02.png" />
+          <Image Name="xin_1.png" />
+        </Folder>
+        <Project Name="blood.csd" Type="Node" />
+        <Project Name="GameScene.csd" Type="Layer" />
+        <Image Name="HelloWorld.png" />
+        <Project Name="MainScene.csd" Type="Scene" />
+        <Project Name="mon1.csd" Type="Node" />
+        <Project Name="mon2.csd" Type="Node" />
+        <Project Name="mon3.csd" Type="Node" />
+        <Project Name="mon4.csd" Type="Node" />
+        <Project Name="mon5.csd" Type="Node" />
+        <Project Name="mon6.csd" Type="Node" />
+        <Project Name="roleNode.csd" Type="Node" />
+        <Project Name="RecordLayer.csd" Type="Layer" />
+        <Project Name="LevelLayer.csd" Type="Layer" />
+      </RootFolder>
+    </Group>
+  </SolutionFolder>
+</Solution>

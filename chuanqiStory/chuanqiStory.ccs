@@ -1,0 +1,91 @@
+<Solution>
+  <PropertyGroup Name="chuanqiStory" Version="3.10.0.0" Type="CocosStudio" />
+  <SolutionFolder>
+    <Group ctype="ResourceGroup">
+      <RootFolder Name=".">
+        <Folder Name="assets">
+          <Image Name="bullet.png" />
+          <Image Name="bullet2.png" />
+          <Image Name="buy.png" />
+          <Image Name="buyhealth-sheet0.png" />
+          <Image Name="buymana-sheet0.png" />
+          <Image Name="chooseleveltext-sheet0.png" />
+          <Image Name="clickshop-sheet0.png" />
+          <Image Name="comics1-sheet0.png" />
+          <Image Name="comics2-sheet0.png" />
+          <Image Name="comics3-sheet0.png" />
+          <Image Name="congratulations-sheet0.png" />
+          <Image Name="defeatmenu-sheet0.png" />
+          <Image Name="enemybar-sheet0.png" />
+          <Image Name="enemydamage-sheet0.png" />
+          <Image Name="expicon-sheet0.png" />
+          <Image Name="exppointstutorial-sheet0.png" />
+          <Image Name="gem.png" />
+          <Image Name="gobackmap-sheet0.png" />
+          <Image Name="go-sheet0.png" />
+          <Image Name="healthbar-sheet0.png" />
+          <Image Name="healthpotionbuy-sheet0.png" />
+          <Image Name="house-sheet0.png" />
+          <Image Name="hpicon.png" />
+          <Image Name="icon.png" />
+          <Image Name="icon_hp.png" />
+          <Image Name="icon_own.png" />
+          <Image Name="learnorbuy-sheet0.png" />
+          <Image Name="leftspawner-sheet0.png" />
+          <Image Name="level10lock-sheet0.png" />
+          <Image Name="level11open-sheet0.png" />
+          <Image Name="loadingbar.png" />
+          <Image Name="magniticon-sheet0.png" />
+          <Image Name="manaball-sheet0.png" />
+          <Image Name="manabar-sheet0.png" />
+          <Image Name="manapotionbuy-sheet0.png" />
+          <Image Name="mana-sheet0.png" />
+          <Image Name="manastol-sheet0.png" />
+          <Image Name="map.png" />
+          <Image Name="menubg-sheet0.png" />
+          <Image Name="menubtndefeat-sheet0.png" />
+          <Image Name="menubtnpause-sheet0.png" />
+          <Image Name="mgnittutorial-sheet0.png" />
+          <Image Name="nextbtnvictory-sheet0.png" />
+          <Image Name="nohealth-sheet0.png" />
+          <Image Name="nomana-sheet0.png" />
+          <Image Name="parapet-sheet0.png" />
+          <Image Name="pausebtn-sheet0.png" />
+          <Image Name="pausemenu-sheet0.png" />
+          <Image Name="playbtn-sheet0.png" />
+          <Image Name="playstorybtn-sheet0.png" />
+          <Image Name="poweredby-sheet0.png" />
+          <Image Name="ready-sheet0.png" />
+          <Image Name="restartbtndefeat-sheet0.png" />
+          <Image Name="returnbtn-sheet0.png" />
+          <Image Name="shopbg.png" />
+          <Image Name="shopbtn-sheet0.png" />
+          <Image Name="shopIcon.png" />
+          <Image Name="sound1-sheet0.png" />
+          <Image Name="sound2-sheet0.png" />
+          <Image Name="spell1menu-sheet0.png" />
+          <Image Name="spellicon1choosen-sheet0.png" />
+          <Image Name="spellicon1-sheet0.png" />
+          <Image Name="spellicon2choosen-sheet0.png" />
+          <Image Name="spellicon2-sheet0.png" />
+          <Image Name="spellicon3choosen-sheet0.png" />
+          <Image Name="spellicon3-sheet0.png" />
+          <Image Name="spellicon4choosen-sheet0.png" />
+          <Image Name="spellicon4choosen-sheet1.png" />
+          <Image Name="spellicon4-sheet0.png" />
+          <Image Name="thishealth-sheet0.png" />
+          <Image Name="thismana-sheet0.png" />
+          <Image Name="tournamentbtn-sheet0.png" />
+          <Image Name="upgradwthisspeel-sheet0.png" />
+          <Image Name="victorybar-sheet0.png" />
+        </Folder>
+        <Project Name="GameScene.csd" Type="Layer" />
+        <Image Name="HelloWorld.png" />
+        <Project Name="MainScene.csd" Type="Scene" />
+        <Project Name="ResultPop.csd" Type="Layer" />
+        <Project Name="SelectLevel.csd" Type="Layer" />
+        <Project Name="ShopScene.csd" Type="Layer" />
+      </RootFolder>
+    </Group>
+  </SolutionFolder>
+</Solution>

@@ -1,0 +1,89 @@
+<Solution>
+  <PropertyGroup Name="Greedy" Version="3.10.0.0" Type="CocosStudio" />
+  <SolutionFolder>
+    <Group ctype="ResourceGroup">
+      <RootFolder Name=".">
+        <Folder Name="assets">
+          <Image Name="btnbacktomain-sheet0_01.png" />
+          <Image Name="btnbacktomain-sheet0_02.png" />
+          <Image Name="btncontinue-sheet0_01.png" />
+          <Image Name="btncontinue-sheet0_02.png" />
+          <Image Name="btnpause-sheet0.png" />
+          <Image Name="btnpause-sheet1.png" />
+          <Image Name="btnplay-sheet0_01.png" />
+          <Image Name="btnplay-sheet0_02.png" />
+          <Image Name="btnretry-sheet0_01.png" />
+          <Image Name="btnretry-sheet0_02.png" />
+          <Image Name="btnskip-sheet0.png" />
+          <Image Name="btnsoundmute-sheet0.png" />
+          <Image Name="btnsoundmute-sheet1.png" />
+          <Image Name="btnsoundunmute-sheet0.png" />
+          <Image Name="btnsoundunmute-sheet1.png" />
+          <Image Name="choosethegolfcourse-sheet0.png" />
+          <Image Name="choosethelevel-sheet0.png" />
+          <Image Name="coinicon-sheet0.png" />
+          <Image Name="coinicon-sheet1.png" />
+          <Image Name="coin-sheet0.png" />
+          <Image Name="coin-sheet1.png" />
+          <Image Name="coverbg-sheet0.png" />
+          <Image Name="exitBtn.png" />
+          <Image Name="failbg.png" />
+          <Image Name="gametitle-sheet0.png" />
+          <Image Name="goblinturn-sheet0.png" />
+          <Image Name="goblinturn-sheet1.png" />
+          <Image Name="goldicon.png" />
+          <Image Name="goldrect.png" />
+          <Image Name="greedygnome1_gameplay-sheet0.png" />
+          <Image Name="greedygnome2_gameplay-sheet0.png" />
+          <Image Name="highscore-sheet0.png" />
+          <Image Name="howtoplay-sheet0_01.png" />
+          <Image Name="howtoplay-sheet0_02.png" />
+          <Image Name="icon1.png" />
+          <Image Name="icon1_focus.png" />
+          <Image Name="icon2.png" />
+          <Image Name="icon2_focus.png" />
+          <Image Name="icon2_lock.png" />
+          <Image Name="icon3.png" />
+          <Image Name="icon3_focus.png" />
+          <Image Name="icon3_lock.png" />
+          <Image Name="item1.png" />
+          <Image Name="item2.png" />
+          <Image Name="item3.png" />
+          <Image Name="krasnalnacover_2-sheet0.png" />
+          <Image Name="krasnalnacover_-sheet0.png" />
+          <Image Name="levelend-sheet0.png" />
+          <Image Name="logoblackmoon-sheet0.png" />
+          <Image Name="newbesthighscore-sheet0.png" />
+          <Image Name="outrocoin-sheet0_06.png" />
+          <Image Name="pausecurtain.png" />
+          <Image Name="pausedcurtain-sheet0.png" />
+          <Image Name="pausedlabel-sheet0.png" />
+          <Image Name="plansza_dol-sheet0.png" />
+          <Image Name="plansza_gora-sheet0.png" />
+          <Image Name="pleaserotatescreensprite-sheet0.png" />
+          <Image Name="pointsframe-sheet0.png" />
+          <Image Name="preloaderfont.png" />
+          <Image Name="resetbtn.png" />
+          <Image Name="roleImg.png" />
+          <Image Name="rotatescreenbg.png" />
+          <Image Name="scoreBg.png" />
+          <Image Name="scorepanel2-sheet0.png" />
+          <Image Name="scorepanel-sheet0.png" />
+          <Image Name="select_bg.png" />
+          <Image Name="select_lock.png" />
+          <Image Name="select_start.png" />
+          <Image Name="start.png" />
+          <Image Name="timesf.png" />
+          <Image Name="unlockBtn.png" />
+          <Image Name="winbg.png" />
+          <Image Name="winnericon-sheet0_01.png" />
+          <Image Name="winnericon-sheet0_02.png" />
+        </Folder>
+        <Project Name="GameScene.csd" Type="Layer" />
+        <Image Name="HelloWorld.png" />
+        <Project Name="MainScene.csd" Type="Scene" />
+        <Project Name="SelectSkin.csd" Type="Layer" />
+      </RootFolder>
+    </Group>
+  </SolutionFolder>
+</Solution>

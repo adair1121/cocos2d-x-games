@@ -1,0 +1,75 @@
+<Solution>
+  <PropertyGroup Name="sageMath" Version="3.10.0.0" Type="CocosStudio" />
+  <SolutionFolder>
+    <Group ctype="ResourceGroup">
+      <RootFolder Name=".">
+        <Folder Name="assets">
+          <Image Name="againfont.png" />
+          <Image Name="battle_a01.png" />
+          <Image Name="battle_a02.png" />
+          <Image Name="battle_a03.png" />
+          <Image Name="bg_popup.png" />
+          <Image Name="bg_popup_pause.png" />
+          <Image Name="bg_title_a.png" />
+          <Image Name="btn_audio_01.png" />
+          <Image Name="btn_audio_02.png" />
+          <Image Name="btn_back_01.png" />
+          <Image Name="btn_back_02.png" />
+          <Image Name="btn_next_01.png" />
+          <Image Name="btn_next_02.png" />
+          <Image Name="btn_option_01.png" />
+          <Image Name="btn_option_02.png" />
+          <Image Name="btn_play_01.png" />
+          <Image Name="btn_play_02.png" />
+          <Image Name="btn_retry_01.png" />
+          <Image Name="btn_retry_02.png" />
+          <Image Name="city_lock.png" />
+          <Image Name="city01.png" />
+          <Image Name="city02.png" />
+          <Image Name="city03.png" />
+          <Image Name="city04.png" />
+          <Image Name="city05.png" />
+          <Image Name="city06.png" />
+          <Image Name="city07.png" />
+          <Image Name="city08.png" />
+          <Image Name="city09.png" />
+          <Image Name="city10.png" />
+          <Image Name="gui_skull.png" />
+          <Image Name="gui_star.png" />
+          <Image Name="gui_star_grey.png" />
+          <Image Name="gui_time.png" />
+          <Image Name="icon_lock.png" />
+          <Image Name="icon_shield.png" />
+          <Image Name="lost_bg.png" />
+          <Image Name="map01.png" />
+          <Image Name="map1.png" />
+          <Image Name="map2.png" />
+          <Image Name="map3.png" />
+          <Fnt Name="myFont.fnt" />
+          <Image Name="nextfont.png" />
+          <Image Name="returnfont.png" />
+          <Image Name="select_level.png" />
+          <Image Name="select_stage_grass_01.png" />
+          <Image Name="select_stage_grass_02.png" />
+          <Image Name="select_stage_ice_01.png" />
+          <Image Name="select_stage_ice_02.png" />
+          <Image Name="select_stage_sand_01.png" />
+          <Image Name="select_stage_sand_02.png" />
+          <Image Name="tutorial1.jpg" />
+          <Image Name="tutorial2.jpg" />
+          <Image Name="tutorial3.jpg" />
+          <Image Name="tutorial4.jpg" />
+          <Image Name="wand_add.png" />
+          <Image Name="wand_div.png" />
+          <Image Name="wand_mul.png" />
+          <Image Name="wand_sub.png" />
+          <Image Name="win_bg.png" />
+        </Folder>
+        <Project Name="GameScene.csd" Type="Layer" />
+        <Image Name="HelloWorld.png" />
+        <Project Name="MainScene.csd" Type="Scene" />
+        <Project Name="ResultPop.csd" Type="Layer" />
+      </RootFolder>
+    </Group>
+  </SolutionFolder>
+</Solution>

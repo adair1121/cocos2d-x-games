@@ -1,0 +1,30 @@
+<Solution>
+  <PropertyGroup Name="zhanShen" Version="3.10.0.0" Type="CocosStudio" />
+  <SolutionFolder>
+    <Group ctype="ResourceGroup">
+      <RootFolder Name=".">
+        <Folder Name="assets">
+          <Image Name="buttonaudio-sheet0.png" />
+          <Image Name="buttonaudio-sheet1.png" />
+          <Image Name="buttoncredits-sheet0--.png" />
+          <Image Name="buttonexitbig-sheet0.png" />
+          <Image Name="buttonexit-sheet0...png" />
+          <Image Name="buttonplay-sheet0.png" />
+          <Image Name="buttonyes-sheet0.png" />
+          <Image Name="buttonyes-sheet1.png" />
+          <Image Name="gamebg-default-000.jpg" />
+          <Image Name="goldicon-sheet0.png" />
+          <Image Name="healthicon-sheet0.png" />
+          <Image Name="menubg-sheet0.png" />
+          <Fnt Name="myFont.fnt" />
+          <Image Name="weaponcrescentmoon-sheet0.png" />
+          <Image Name="weaponicon-sheet0_01.png" />
+          <Image Name="weaponicon-sheet0_02.png" />
+        </Folder>
+        <Project Name="GameScene.csd" Type="Layer" />
+        <Image Name="HelloWorld.png" />
+        <Project Name="MainScene.csd" Type="Scene" />
+      </RootFolder>
+    </Group>
+  </SolutionFolder>
+</Solution>

@@ -1,0 +1,43 @@
+<Solution>
+  <PropertyGroup Name="Castleguard" Version="3.10.0.0" Type="CocosStudio" />
+  <SolutionFolder>
+    <Group ctype="ResourceGroup">
+      <RootFolder Name=".">
+        <Folder Name="assets">
+          <Image Name="akf_png.png" />
+          <Image Name="bar1_png.png" />
+          <Image Name="bar2_png.png" />
+          <Image Name="bg1.png" />
+          <Image Name="bg2.png" />
+          <Image Name="bg3_png.png" />
+          <Image Name="bombSp_png.png" />
+          <Image Name="g1.png" />
+          <Image Name="g2.png" />
+          <Image Name="g3.png" />
+          <Image Name="gg_png.png" />
+          <Image Name="guid.png" />
+          <Image Name="item_1_png.png" />
+          <Image Name="item_2_png.png" />
+          <Image Name="item_3_png.png" />
+          <Image Name="item1_png.png" />
+          <Image Name="item2_png.png" />
+          <Image Name="item3_png.png" />
+          <Image Name="ok.png" />
+          <Image Name="overMc_000000.png" />
+          <Image Name="overMc_000001.png" />
+          <Image Name="overMc_000002.png" />
+          <Image Name="overMc_000003.png" />
+          <Image Name="qiang_png.png" />
+          <Image Name="red1_png.png" />
+          <Image Name="skillCircle.png" />
+          <Image Name="startMc_000000.png" />
+          <Image Name="startMc_000001.png" />
+          <Image Name="startMc_000002.png" />
+        </Folder>
+        <Image Name="HelloWorld.png" />
+        <Project Name="MainScene.csd" Type="Scene" />
+        <Project Name="GameScene.csd" Type="Layer" />
+      </RootFolder>
+    </Group>
+  </SolutionFolder>
+</Solution>
